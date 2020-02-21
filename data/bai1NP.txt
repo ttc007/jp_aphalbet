@@ -1,0 +1,120 @@
+﻿    {
+    "tv": "gyuuniku",
+    "tn": "牛肉"
+    },
+    {
+      "tv": "gyuunyu",
+      "tn": "牛乳"
+    },
+    {
+      "tv": "kyou",
+      "tn": "今日"
+    },
+    {
+      "tv": "kyoushitsu",
+      "tn": "教室"
+    },
+    {
+      "tv": "kyoudai",
+      "tn": "兄弟"
+    },
+    {
+      "tv": "kyonen",
+      "tn": "去年"
+    },
+    {
+      "tv": "kirai",
+      "tn": "嫌い"
+    },
+    {
+      "tv": "kiru",
+      "tn": "切る"
+    },
+    {
+      "tv": "kiru",
+      "tn": "着る"
+    },
+    {
+      "tv": "ginkou",
+      "tn": "銀行"
+    },
+    {
+      "tv": "kinyoubi",
+      "tn": "金曜日"
+    },
+    {
+      "tv": "kusuri",
+      "tn": "薬"
+    },
+    {
+      "tv": "kudamono",
+      "tn": "果物"
+    },
+    {
+      "tv": "kuchi",
+      "tn": "口"
+    },
+    {
+      "tv": "kutsu",
+      "tn": "靴"
+    },
+    {
+      "tv": "kutsushita",
+      "tn": "靴下"
+    },
+    {
+      "tv": "kuni",
+      "tn": "国"
+    },
+    {
+      "tv": "kumori",
+      "tn": "曇り"
+    },
+    {
+      "tv": "kumoru",
+      "tn": "曇る"
+    },
+    {
+      "tv": "kurai",
+      "tn": "暗い"
+    },
+    {
+      "tv": "kuru",
+      "tn": "来る"
+    },
+    {
+      "tv": "kuruma",
+      "tn": "車"
+    },
+    {
+      "tv": "kuro",
+      "tn": "黒"
+    },
+    {
+      "tv": "kuroi",
+      "tn": "黒い"
+    },
+    {
+      "tv": "keikan",
+      "tn": "警官"
+    },
+    {
+      "tv": "kesa",
+      "tn": "今朝"
+    },
+    {
+      "tv": "kesu",
+      "tn": "消す"
+    },
+    {
+      "tv": "kekkou",
+      "tn": "結構"
+    },
+    {
+      "tv": "kekkon",
+      "tn": "結婚"
+    },
+    {
+      "tv": "kyuu",
+      "tn": "九"
+    }

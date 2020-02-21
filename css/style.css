@@ -1,0 +1,18 @@
+.source-learm{
+	height: 95%;
+	color: red;
+	justify-content: center;
+	display: flex;
+	font-weight: 500;
+	flex-direction: column;
+	text-align: center;
+	font-size: 130px;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro",Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+.target-input{
+	height: 100px;
+    width: 426px;
+    font-size: 73px;
+    text-align: center;
+}

@@ -1,0 +1,120 @@
+﻿    {
+    "tv": "otouto",
+    "tn": "弟"
+    },
+    {
+      "tv": "otoko",
+      "tn": "男"
+    },
+    {
+      "tv": "otokonoko",
+      "tn": "男の子"
+    },
+    {
+      "tv": "ototoi",
+      "tn": "一昨日"
+    },
+    {
+      "tv": "ototoshi",
+      "tn": "一昨年"
+    },
+    {
+      "tv": "otona",
+      "tn": "大人"
+    },
+    {
+      "tv": "onaka",
+      "tn": "お腹"
+    },
+    {
+      "tv": "onaji",
+      "tn": "同じ"
+    },
+    {
+      "tv": "oniisan",
+      "tn": "お兄さん"
+    },
+    {
+      "tv": "oneesan",
+      "tn": "お姉さん"
+    },
+    {
+      "tv": "ofuro",
+      "tn": "お風呂"
+    },
+    {
+      "tv": "obentou",
+      "tn": "お弁当"
+    },
+    {
+      "tv": "oboeru",
+      "tn": "覚える"
+    },
+    {
+      "tv": "omoi",
+      "tn": "重い"
+    },
+    {
+      "tv": "oyogu",
+      "tn": "泳ぐ"
+    },
+    {
+      "tv": "oriru",
+      "tn": "降りる"
+    },
+    {
+      "tv": "owaru",
+      "tn": "終る"
+    },
+    {
+      "tv": "ongaku",
+      "tn": "音楽"
+    },
+    {
+      "tv": "onna",
+      "tn": "女"
+    },
+    {
+      "tv": "onnanoko",
+      "tn": "女の子"
+    },
+    {
+      "tv": "gaikoku",
+      "tn": "外国"
+    },
+    {
+      "tv": "gaikokujin",
+      "tn": "外国人"
+    },
+    {
+      "tv": "kaisha",
+      "tn": "会社"
+    },
+    {
+      "tv": "kaidan",
+      "tn": "階段"
+    },
+    {
+      "tv": "kaimono",
+      "tn": "買い物"
+    },
+    {
+      "tv": "kau",
+      "tn": "買う"
+    },
+    {
+      "tv": "kaesu",
+      "tn": "返す"
+    },
+    {
+      "tv": "kaeru",
+      "tn": "帰る"
+    },
+    {
+      "tv": "kagi",
+      "tn": "鍵"
+    },
+    {
+      "tv": "kaku",
+      "tn": "書く"
+    }

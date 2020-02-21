@@ -1,0 +1,102 @@
+var bai3 = {
+    "list":[
+    {
+      "tv": "kyoushitsu",
+      "tn": "教室",
+      "sub": "lớp học, phòng học"
+    },
+    {
+      "tv": "shokudou",
+      "tn": "食堂",
+      "sub": "nhà ăn"
+    },
+    {
+      "tv": "jimusho",
+      "tn": "事務所",
+      "sub": "văn phòng"
+    },
+    {
+      "tv": "kaigishitsu",
+      "tn": "会議室",
+      "sub": "phòng họp"
+    },
+    {
+      "tv": "heya",
+      "tn": "部屋",
+      "sub": "phòng"
+    },
+    {
+      "tv": "kaisha",
+      "tn": "会社",
+      "sub": "công ty"
+    },
+    {
+      "tv": "denwa",
+      "tn": "電話",
+      "sub": "điện thoại"
+    },
+    {
+      "tv": "kutsu",
+      "tn": "靴",
+      "sub": "giày"
+    },
+    {
+      "tv": "uriba",
+      "tn": "売り場",
+      "sub": "quầy bán"
+    },
+    {
+      "tv": "chika",
+      "tn": "地下",
+      "sub": "tầng hầm, dưới mặt đất"
+    },
+    {
+      "tv": "kai",
+      "tn": "階",
+      "sub": "tầng"
+    },
+    {
+      "tv": "nangai",
+      "tn": "何階",
+      "sub": "tầng mấy"
+    },
+    {
+      "tv": "en",
+      "tn": "円",
+      "sub": "Yên Nhật"
+    },
+    {
+      "tv": "hyaku",
+      "tn": "百",
+      "sub": "trăm"
+    },
+    {
+      "tv": "sen",
+      "tn": "千",
+      "sub": "nghìn"
+    },
+    {
+      "tv": "uketsuke",
+      "tn": "受付",
+      "sub": "phòng tiếp tân"
+    },
+    {
+      "tv": "man",
+      "tn": "万",
+      "sub": "mười nghìn, vạn"
+    },
+    
+    {
+      "tv": "misete",
+      "tn": "見せて",
+      "sub": "cho tôi xem"
+    },
+    {
+      "tv": "shinoosaka",
+      "tn": "新大阪",
+      "sub": "Shin Osaka"
+    },
+    //bai3 mina
+    
+    ]
+    }

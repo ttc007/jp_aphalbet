@@ -1,0 +1,120 @@
+﻿    {
+    "tv": "gakusei",
+    "tn": "学生"
+    },
+    {
+      "tv": "kasa",
+      "tn": "傘"
+    },
+    {
+      "tv": "kasu",
+      "tn": "貸す"
+    },
+    {
+      "tv": "kaze",
+      "tn": "風"
+    },
+    {
+      "tv": "kaze",
+      "tn": "風邪"
+    },
+    {
+      "tv": "kazoku",
+      "tn": "家族"
+    },
+    {
+      "tv": "kata",
+      "tn": "方"
+    },
+    {
+      "tv": "gakkou",
+      "tn": "学校"
+    },
+    {
+      "tv": "katei",
+      "tn": "家庭"
+    },
+    {
+      "tv": "kado",
+      "tn": "角"
+    },
+    {
+      "tv": "kabin",
+      "tn": "花瓶"
+    },
+    {
+      "tv": "kami",
+      "tn": "紙"
+    },
+    {
+      "tv": "kayoubi",
+      "tn": "火曜日"
+    },
+    {
+      "tv": "karai",
+      "tn": "辛い"
+    },
+    {
+      "tv": "karada",
+      "tn": "体"
+    },
+    {
+      "tv": "kariru",
+      "tn": "借りる"
+    },
+    {
+      "tv": "karui",
+      "tn": "軽い"
+    },
+    {
+      "tv": "kanji",
+      "tn": "漢字"
+    },
+    {
+      "tv": "ki",
+      "tn": "木"
+    },
+    {
+      "tv": "kiiro",
+      "tn": "黄色"
+    },
+    {
+      "tv": "kiroi",
+      "tn": "黄色い"
+    },
+    {
+      "tv": "kieru",
+      "tn": "消える"
+    },
+    {
+      "tv": "kiku",
+      "tn": "聞く"
+    },
+    {
+      "tv": "kita",
+      "tn": "北"
+    },
+    {
+      "tv": "kitanai",
+      "tn": "汚い"
+    },
+    {
+      "tv": "kissaten",
+      "tn": "喫茶店"
+    },
+    {
+      "tv": "kitte",
+      "tn": "切手"
+    },
+    {
+      "tv": "kippu",
+      "tn": "切符"
+    },
+    {
+      "tv": "kinou",
+      "tn": "昨日"
+    },
+    {
+      "tv": "kyuu",
+      "tn": "九"
+    }

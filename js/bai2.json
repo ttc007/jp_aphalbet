@@ -1,0 +1,81 @@
+var bai1 = {
+    "list":[
+    {
+      "tv": "hon",
+      "tn": "本"
+    },
+    {
+      "tv": "jisho",
+      "tn": "辞書"
+    },
+    {
+      "tv": "zasshi",
+      "tn": "雑誌"
+    },
+    {
+      "tv": "shinbun",
+      "tn": "新聞"
+    },
+    {
+      "tv": "techou",
+      "tn": "手帳"
+    },
+    {
+      "tv": "meishi",
+      "tn": "名詞"
+    },
+    {
+      "tv": "empitsu",
+      "tn": "鉛筆"
+    },
+    {
+      "tv": "kagi",
+      "tn": "鍵"
+    },
+    {
+      "tv": "tokei",
+      "tn": "時計"
+    },
+    {
+      "tv": "kasa",
+      "tn": "傘"
+    },
+    {
+      "tv": "jidousha",
+      "tn": "自動車"
+    },
+    {
+      "tv": "tsukue",
+      "tn": "机"
+    },
+    {
+      "tv": "eigo",
+      "tn": "英語"
+    },
+    {
+      "tv": "nihongo",
+      "tn": "日本語"
+    },
+    {
+      "tv": "go",
+      "tn": "語"
+    },
+    {
+      "tv": "nan",
+      "tn": "何"
+    },
+    {
+      "tv": "chigai",
+      "tn": "違い"
+    },
+    {
+      "tv": "kimochi",
+      "tn": "気持ち"
+    },
+    {
+      "tv": "sewa",
+      "tn": "世話"
+    },
+    // bai 2 mina 20words
+    ]
+    }
