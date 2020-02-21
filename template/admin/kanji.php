@@ -1,4 +1,7 @@
 <?php require_once "../template/head.php"; ?>
+
+<?php require_once "../template/admin/header.php"; ?>
+
 <body>
 	<form action="kanji.php" method="post">
 		出所 <input type="" name="source"><br>

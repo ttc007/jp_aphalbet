@@ -1,4 +1,7 @@
 <?php require_once "../template/head.php"; ?>
+
+<?php require_once "../template/admin/header.php"; ?>
+
 <body>
 	<form action="unit.php" method="post">
 		ユニット名 <input type="" name="name">
