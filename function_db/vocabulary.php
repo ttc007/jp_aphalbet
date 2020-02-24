@@ -31,49 +31,39 @@
 	    return $vocabulary;
 	}
 
-	// Function get vocabularies
-	function get_vocabulary($source, $target) {
+	// Function insert vocabulary
+	function insert_vocabulary($source, $target, $unit, $type, $mean){
 		global $conn;
+		$stmt = $conn->prepare("insert into vocabulary(source, target, unit, type, mean) values (:source, :target, :unit, :type, :mean);");
 
-		$stmt = $conn->query("select * from vocabulary where source = '$source' and target = '$target';");
+	    $stmt->bindParam(':source', $source);
+	    $stmt->bindParam(':target', $target);
+	    $stmt->bindParam(':unit', $unit);
+	    $stmt->bindParam(':type', $type);
+	    $stmt->bindParam(':mean', $mean);
+	    $stmt->execute();
+	}
+
+	// Function get vocabulary
+	function get_vocabulary($id) {
+		global $conn;
+		$stmt = $conn->query("select * from vocabulary where id = $id;");
 
 	    $vocabulary = $stmt->fetch(PDO::FETCH_OBJ);
 
 	    return $vocabulary;
 	}
 
-	// Function insert vocabulary
-	function insert_vocabulary($source, $target, $unit, $type){
-		global $conn;
-		$stmt = $conn->prepare("insert into vocabulary(source, target, unit, type) values (:source, :target, :unit, :type);");
-
-	    $stmt->bindParam(':source', $source);
-	    $stmt->bindParam(':target', $target);
-	    $stmt->bindParam(':unit', $unit);
-	    $stmt->bindParam(':type', $type);
-	    $stmt->execute();
-	}
-
-	// Function get unit
-	function get_vocabulary($id) {
-		global $conn;
-		$stmt = $conn->query("select * from unit where id = $id;");
-
-	    $unit = $stmt->fetch(PDO::FETCH_OBJ);
-
-	    return $unit;
-	}
-
-	// Function get unit
+	// Function delete vocabulary
 	function delete_vocabulary($id) {
 		global $conn;
-		$stmt = $conn->query("delete from unit where id = $id;");
+		$stmt = $conn->query("delete from vocabulary where id = $id;");
 	}
 
-	// Function get unit
-	function update_vocabulary($name, $type, $id) {
+	// Function update vocabulary
+	function update_vocabulary($source, $target, $unit, $type, $mean, $id) {
 		global $conn;
-		$stmt = $conn->query("update unit set name = '$name', type = '$type' where id = $id;");
+		$stmt = $conn->query("update vocabulary set source = '$source', target = '$target', unit ='$unit', type = '$type', mean='$mean' where id = $id;");
 	}
 
 ?>

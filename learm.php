@@ -29,13 +29,13 @@
 			$list_old_learm = array_column($list_result, 'id');
 		}
 
-		if (!isset($list_old_learm) || !in_array($id, $list_old_learm)) {
-			$row = get_vocabulary($source, $target);
+		if (!isset($list_old_learm) || (isset($list_old_learm) && !in_array($id, $list_old_learm))) {
+			$row = get_vocabulary($id);
 
 			$score = isset($session->score) ? $session->score : 0;
 
 			$result = false;
-			if ($row) {
+			if (isset($row->target) && $row->target == $target) {
 				$score++;
 				$result = true;
 			}
@@ -64,6 +64,7 @@
 			$list_old_learm = array_column($list_result, 'id');
 
 			$vocabulary = get_vocabulary_random($units, $list_old_learm);
+
 		} else {
 			$vocabulary = get_vocabulary_random($units);
 		}
